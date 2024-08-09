@@ -1,0 +1,2 @@
+This is some text that will be written to the file.
+You can write as much or as little as you like.

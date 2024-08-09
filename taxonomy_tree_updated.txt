@@ -1,0 +1,15 @@
+Text-based graph representation of the taxonomy tree with parent and child nodes:
+(1,) : nature (ID: 0)
+(2,nature) : animality (ID: 1)
+(2,nature) : cause (ID: 2)
+(3,cause) : actuate (ID: 4)
+(3,cause) : aetiology (ID: 5)
+(3,cause) : agent (ID: 6)
+(2,nature) : complexion (ID: 3)
+(3,complexion) : achromasia (ID: 7)
+(3,complexion) : appearance (ID: 8)
+(3,complexion) : blondness (ID: 9)
+
+
+Words and their corresponding IDs in the taxonomy tree:
+cause: 2
